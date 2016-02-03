@@ -15,16 +15,15 @@ class UndpSpider(Spider):
         for tr in trevenodd: #the tds in every tr line
             item = JobsItem()
             item['agency'] = 'UNDP'
-            item['title'] = tr.xpath('.//td[position()=1]//text()[position()=1]').extract()[1]
+            item['title'] = tr.xpath('./td/a/text()').extract()[0]
             print 'title: ' + item['title']
-            #item['link'] = tr.xpath('.//td[position()=1]//@href()[position()=1]').extract()
-            #print 'link: ' 
-            #print item['link']
-            item['position'] = tr.xpath('.//td[position()=3]//text()').extract()[0].strip(' \t\n\r')
+            item['link'] = response.urljoin(tr.xpath('./td/a/@href').extract()[0])
+            print 'link: ' + item['link']
+            item['position'] = tr.xpath('./td[3]//text()').extract()[0].strip(' \t\n\r')
             print 'position: ' + item['position']
-            item['deadline'] = tr.xpath('.//td[position()=4]//text()').extract()[0].strip(' \t\n\r')
+            item['deadline'] = tr.xpath('./td[4]//text()').extract()[0].strip(' \t\n\r')
             print 'deadline: ' + item['deadline']
-            item['location'] = tr.xpath('.//td[position()=5]//text()').extract()[0].strip(' \t\n\r')
+            item['location'] = tr.xpath('./td[5]//text()').extract()[0].strip(' \t\n\r')
             print 'location: ' + item['location']
             print "*************"
 
