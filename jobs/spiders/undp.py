@@ -15,10 +15,13 @@ class UndpSpider(Spider):
         for tr in trevenodd: #the tds in every tr line
             item = JobsItem()
             item['agency'] = 'UNDP'
-            item['title'] = tr.xpath('.//td[position()=1]//text()').extract()[0].strip(' \t\n\r')
+            item['title'] = tr.xpath('.//td[position()=1]//text()[position()=1]').extract()[1]
             print 'title: ' + item['title']
+            item['link'] = tr.xpath('.//td[position()=1]//@href()[position()=1]').extract()
+            print 'link: ' 
+            print item['link']
             item['position'] = tr.xpath('.//td[position()=3]//text()').extract()[0].strip(' \t\n\r')
-            print 'position' + item['position']
+            print 'position: ' + item['position']
             item['deadline'] = tr.xpath('.//td[position()=4]//text()').extract()[0].strip(' \t\n\r')
             print 'deadline: ' + item['deadline']
             item['location'] = tr.xpath('.//td[position()=5]//text()').extract()[0].strip(' \t\n\r')
