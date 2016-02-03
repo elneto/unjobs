@@ -1,0 +1,393 @@
+2016-02-02 23:09:04 [scrapy] DEBUG: Crawled (200) <GET http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER> (referer: None) ['partial']
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63467',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Consultancy - Workshop Facilitator'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63490',
+ 'location': u'Chisinau',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant on Legislation and Rules Regarding Whistleblowing and Protection of Whistleblowers'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63381',
+ 'location': u'Home-based consultancy with 2 missions to Georgia',
+ 'position': u'International Consultant',
+ 'title': u'Expert on Rights of Persons with Disabilities'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63477',
+ 'location': u'Home Based with Travels as Applicable',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant to Develop Training Tool to Support Capacity Strengthening of Judges'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63175',
+ 'location': u'Home Based',
+ 'position': u'International Consultant',
+ 'title': u'Consultant-Local Economic Development'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63366',
+ 'location': u'Home-based with mission travel to Uganda',
+ 'position': u'International Consultant',
+ 'title': u'Workshop Preparation on Engaging Private Sector in Uganda for CSR and Sustainable Development'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63145',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Website Developer / Project Manager'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63356',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-4',
+ 'title': u'Environmental Policy and Legal Specialist'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63430',
+ 'location': u'Home-based with missions to Liberia and Sierra Leone',
+ 'position': u'International Consultant',
+ 'title': u'Technical Project Support for the Project \u201cBuilding National and Local Capacity for the Treatment of Healthcare Waste in Countries Impacted by the Ebola Epidemic\u201d -  (Part time)'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63468',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Expert in Chemicals and Waste (C&W)'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=61706',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Consultancy: Peer reviewers for UNDP\u2019s Regional Human Development Report on inequalities in Europe and Central Asia'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63557',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Graphic Designer for ACP-EU Development Minerals Programme'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=62608',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'Junior Professional Officer - Policy Analyst - Effective Development Cooperation'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63372',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant for Finalizing REDD+ Training Manual and Glossary'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63338',
+ 'location': u'Home-based consultancy with two missions to Georgia',
+ 'position': u'International Consultant',
+ 'title': u'Chief Technical Advisor'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63329',
+ 'location': u'Home-based with missions in Albania',
+ 'position': u'International Consultant',
+ 'title': u'International Expert on Small Hydro Power Planning and Sea'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63363',
+ 'location': u'Home-Based with Possible Travels to the Countries Targeted by NAP GSP',
+ 'position': u'International Consultant',
+ 'title': u'Country Support Specialist (Focus on Private sector)'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63374',
+ 'location': u'Home-Based',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant - GEF Project Design'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63457',
+ 'location': u'Home-based with two missions',
+ 'position': u'International Consultant',
+ 'title': u'International Advisor on Marine and Coastal Protected Areas Strategy'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63480',
+ 'location': u'Home-based with one mission to Romania',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant on Lessons Learned Study for Improved Energy-Efficiency in Buildings in Romania'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63467',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Consultancy - Workshop Facilitator'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63561',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'Programme Analyst'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63474',
+ 'location': u'Home Based',
+ 'position': u'International Consultant',
+ 'title': u'Consultant for the Legal Environment Assessment (LEA) and Facilitation of the African Key Populations Expert Meeting'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63476',
+ 'location': u'Home Based',
+ 'position': u'International Consultant',
+ 'title': u'Consultant for the Legal Environment Assessment (LEA); Facilitate the Meetings of the AUC, RECs and Other Regional Organizations; Prepare the Report of Human Rights and TB/HIV in Africa; & Facilitate the African J'}
+2016-02-02 23:09:04 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63477',
+ 'location': u'Home Based with Travels as Applicable',
+ 'position': u'International Consultant',
+ 'title': u'International Consultant to Develop Training Tool to Support Capacity Strengthening of Judges'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63191',
+ 'location': u'UN Women Headquarters,  UNITED STATES OF AMERICA',
+ 'position': u'International Consultant',
+ 'title': u'Consultant, Virtual Knowledge Center Knowledge Management Specialist, Ending Violence Against Women Section,'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63543',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-3',
+ 'title': u'UN Women: Programme Specialist'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63349',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'Intern',
+ 'title': u'UN Women: Programme Division Intern (3 positions)'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63563',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'National Consultant',
+ 'title': u'UN Women: Consultant - Administrative Assistant'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=61389',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'D-1',
+ 'title': u'UN Women: Section Chief - Ending Violence Against Women'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63514',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'GS-6',
+ 'title': u'Programme / Administrative Associate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63432',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-5',
+ 'title': u'UN Women: Gender and Humanitarian Advisor'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63518',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'UN Women: Policy Analyst (Economic Institutions)'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63556',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-3',
+ 'title': u'UN Women: Programme Specialist \u2013 Grants Management, Asia and the Pacific'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=58210',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'Intern',
+ 'title': u'Re-advertisement - Internship - Heforshe Campaign Special Projects'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63199',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'International Consultant',
+ 'title': u'Editor/ Research Analyst - BERA/Partnerships Group'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63224',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'GS-6',
+ 'title': u'Programme Associate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63277',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'International Consultant',
+ 'title': u'Translation Consultant (English)'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'https://undpcareers.partneragencies.org/erecruitjobs.html?JobOpeningId=3307',
+ 'location': u'New York,  United States',
+ 'position': u'G6',
+ 'title': u'* Human Resources Associate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63465',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-3',
+ 'title': u'Human Resource Specialist - OHR Directorate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63468',
+ 'location': u'Home-based',
+ 'position': u'International Consultant',
+ 'title': u'Expert in Chemicals and Waste (C&W)'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63435',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'GS-7',
+ 'title': u'Operations Associate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63387',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'Intern',
+ 'title': u'Internship, Monitoring and Evaluations'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63389',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'Intern',
+ 'title': u'Intern - Archivist/Documentalist'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63474',
+ 'location': u'Home Based',
+ 'position': u'International Consultant',
+ 'title': u'Consultant for the Legal Environment Assessment (LEA) and Facilitation of the African Key Populations Expert Meeting'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63476',
+ 'location': u'Home Based',
+ 'position': u'International Consultant',
+ 'title': u'Consultant for the Legal Environment Assessment (LEA); Facilitate the Meetings of the AUC, RECs and Other Regional Organizations; Prepare the Report of Human Rights and TB/HIV in Africa; & Facilitate the African J'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63503',
+ 'location': u'home-based with several missions',
+ 'position': u'International Consultant',
+ 'title': u'Project Consultant for the Kapuscinski Development Lectures Project'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63122',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-5',
+ 'title': u'Chief, Quality Assurance & Policy Unit (Audit)'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63393',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-4',
+ 'title': u'UN Coordination and Coherence Specialist'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=63560',
+ 'location': u'New York',
+ 'position': u'International Consultant',
+ 'title': u'Consultant - Communications Associate'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=62879',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'Junior Professional Officer - UN Coordination and Coherence'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=62880',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'Junior Professional Officer - Programme Analyst, Strategic partnerships and resource mobilisation'}
+2016-02-02 23:09:05 [scrapy] DEBUG: Scraped from <200 http://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=OTHER>
+{'agency': 'UNDP',
+ 'deadline': u'Apply by',
+ 'link': u'http://jobs.undp.org/cj_view_job.cfm?cur_job_id=62881',
+ 'location': u'New York,  UNITED STATES OF AMERICA',
+ 'position': u'P-2',
+ 'title': u'Junior Professional Officer - Management Analyst'}
+2016-02-02 23:09:05 [scrapy] INFO: Closing spider (finished)
+2016-02-02 23:09:05 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 246,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 55253,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2016, 2, 3, 4, 9, 5, 42213),
+ 'item_scraped_count': 53,
+ 'log_count/DEBUG': 54,
+ 'log_count/INFO': 6,
+ 'log_count/WARNING': 2,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2016, 2, 3, 4, 9, 4, 324186)}
+2016-02-02 23:09:05 [scrapy] INFO: Spider closed (finished)
