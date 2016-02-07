@@ -14,6 +14,11 @@ BOT_NAME = 'jobs'
 SPIDER_MODULES = ['jobs.spiders']
 NEWSPIDER_MODULE = 'jobs.spiders'
 
+MONGO_URI = 'mongodb://localhost'
+MONGO_DATABASE = 'un'
+
+ITEM_PIPELINES = {'jobs.pipelines.JobsPipeline'}
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'jobs (+http://www.yourdomain.com)'
