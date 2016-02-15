@@ -1,5 +1,6 @@
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
+from datetime import datetime
 
 from jobs.items import JobsItem
 
@@ -17,5 +18,6 @@ class UnicefSpider(Spider):
             item['agency'] = 'UNICEF'
             item['title'] = link.xpath('./text()').extract()[0]
             item['link'] = response.urljoin(link.xpath('./@href').extract()[0])
+            item['datetime'] = datetime.now()
             yield item
 

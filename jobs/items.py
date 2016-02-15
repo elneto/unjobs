@@ -7,7 +7,6 @@
 
 from scrapy.item import Item, Field
 
-
 class JobsItem(Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
@@ -18,3 +17,4 @@ class JobsItem(Item):
     location = Field()
     deadline = Field()
     description = Field()
+    datetime = Field()

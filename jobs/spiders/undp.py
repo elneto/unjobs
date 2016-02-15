@@ -1,5 +1,6 @@
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
+from datetime import datetime
 
 from jobs.items import JobsItem
 
@@ -20,5 +21,6 @@ class UndpSpider(Spider):
             item['position'] = tr.xpath('./td[3]//text()').extract()[0].strip(' \t\n\r')
             item['deadline'] = tr.xpath('./td[4]//text()').extract()[1].strip(' \t\n\r')
             item['location'] = tr.xpath('./td[5]//text()').extract()[0].strip(' \t\n\r')
+            item['datetime'] = datetime.now()
             yield item
 
